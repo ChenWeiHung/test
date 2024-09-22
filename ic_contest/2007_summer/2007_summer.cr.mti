@@ -1,0 +1,15 @@
+C:/IC_contest_modelsim/ic_contest/2007_summer/testfixture.v {1 {vlog -work work -stats=none C:/IC_contest_modelsim/ic_contest/2007_summer/testfixture.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} C:/IC_contest_modelsim/ic_contest/2007_summer/lcd_ctrl.v {1 {vlog -work work -stats=none C:/IC_contest_modelsim/ic_contest/2007_summer/lcd_ctrl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module lcd_ctrl
+
+Top level modules:
+	lcd_ctrl
+
+} {} {}}

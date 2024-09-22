@@ -1,0 +1,102 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/IC_contest_modelsim/ic_contest/2014
+vSTI_DAC
+Z1 !s110 1720517674
+!i10b 1
+!s100 k5SVK=[6iB@8_7eSS7<_U3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IU;HWk2L3:dX;^dLDNZz:K3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1720517668
+8C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.v
+FC:/IC_contest_modelsim/ic_contest/2014/STI_DAC.v
+!i122 57
+L0 1 207
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1720517674.000000
+!s107 C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@s@t@i_@d@a@c
+Esti_dac
+Z8 w1395123673
+Z9 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z10 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z11 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 58
+R0
+Z12 8C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.vhd
+Z13 FC:/IC_contest_modelsim/ic_contest/2014/STI_DAC.vhd
+l0
+L5 1
+VI5`d?SM5_h_gcL8z6^QIU2
+!s100 I6;VGBlk<I4?^bWSWdHVK3
+Z14 OV;C;2020.1;71
+32
+R1
+!i10b 1
+R5
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.vhd|
+Z16 !s107 C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.vhd|
+!i113 1
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Asti_dac_arc
+R9
+R10
+R11
+DEx4 work 7 sti_dac 0 22 I5`d?SM5_h_gcL8z6^QIU2
+!i122 58
+l25
+L23 5
+VH?XGenW8S1G@33z32fOKH2
+!s100 fZ_UD2[X`E3iU]QUHk0id1
+R14
+32
+R1
+!i10b 1
+R5
+R15
+R16
+!i113 1
+R17
+R18
+vtestfixture
+R1
+!i10b 1
+!s100 bBeC1gH:93M?MeYUjW9RX2
+R2
+I`en3OYcDi4Q4jb`JEZUF?2
+R3
+R0
+w1394696408
+8C:/IC_contest_modelsim/ic_contest/2014/testfixture.v
+FC:/IC_contest_modelsim/ic_contest/2014/testfixture.v
+!i122 59
+L0 3 343
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/IC_contest_modelsim/ic_contest/2014/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2014/testfixture.v|
+!i113 1
+R6
+R7

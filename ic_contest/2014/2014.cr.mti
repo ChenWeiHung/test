@@ -1,0 +1,17 @@
+C:/IC_contest_modelsim/ic_contest/2014/testfixture.v {1 {vlog -work work -stats=none C:/IC_contest_modelsim/ic_contest/2014/testfixture.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module testfixture
+
+Top level modules:
+	testfixture
+
+} {} {}} C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/IC_contest_modelsim/ic_contest/2014/STI_DAC.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity STI_DAC
+-- Compiling architecture STI_DAC_arc of STI_DAC
+
+} {} {}}

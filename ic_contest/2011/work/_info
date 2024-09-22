@@ -1,0 +1,153 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/IC_contest_modelsim/ic_contest/2011
+vIRB
+Z1 !s110 1719983705
+!i10b 1
+!s100 TCXAO:ZHMXKcGc3FYfG=[0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I<lNVBNR2PIOD;P8eN:7_73
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1300762706
+8IRB.v
+FIRB.v
+!i122 108
+L0 56 409
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1719983705.000000
+Z7 !s107 IROM.v|IRB.v|C:/IC_contest_modelsim/ic_contest/2011/testfixture.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2011/testfixture.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+n@i@r@b
+vIROM
+R1
+!i10b 1
+!s100 EW0W<mi_QI_Hj<6@98]3S2
+R2
+IeL6>]gkJ[gi8GO]cLhIlP3
+R3
+R0
+R4
+Z11 8IROM.v
+Z12 FIROM.v
+!i122 108
+L0 68 17
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R9
+R10
+n@i@r@o@m
+virom
+Z13 !s110 1719982151
+!i10b 1
+!s100 aiLMob4PFT9OCGUk5b?1a2
+R2
+IJnz2G=2<5SbV]RgnRKYBA3
+R3
+R0
+R4
+R11
+R12
+!i122 105
+L0 87 273
+R5
+r1
+!s85 0
+31
+Z14 !s108 1719982151.000000
+Z15 !s107 IROM.v|IRB.v|lcd_ctrl.v|testfixture.v|
+Z16 !s90 -reportprogress|300|testfixture.v|lcd_ctrl.v|+define+tb1|
+!i113 1
+Z17 !s92 +define+tb1
+R10
+Elcd_ctrl
+w1300762704
+DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 58
+R0
+8C:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.vhd
+FC:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.vhd
+l0
+L6 1
+V7LFKE^E5Lg`mU^VOd=[YM1
+!s100 i3QHL;NB]e^S^OJM;?@EM3
+OV;C;2020.1;71
+32
+!s110 1719842309
+!i10b 1
+!s108 1719842309.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.vhd|
+!s107 C:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.vhd|
+!i113 1
+o-work work -2002 -explicit
+tExplicit 1 CvgOpt 0
+vLCD_CTRL
+R1
+!i10b 1
+!s100 8AQ3KFJIiJ0CBOLn@G^Y;1
+R2
+IG6`]e6Hk7[>[djOikUH5>0
+R3
+R0
+w1719983448
+8C:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.v
+FC:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.v
+!i122 109
+L0 1 200
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2011/lcd_ctrl.v|
+!i113 1
+R9
+R10
+n@l@c@d_@c@t@r@l
+vtest
+R13
+!i10b 1
+!s100 TZY;^o`4D`=BLF_jRXEnT1
+R2
+I27?aX<NaEf7Liz5[G@6:41
+R3
+R0
+w1719839048
+8testfixture.v
+Ftestfixture.v
+!i122 105
+L0 20 130
+R5
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R17
+R10

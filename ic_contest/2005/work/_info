@@ -1,0 +1,42 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\modeltech64_10.1c\LAB_modelsim\2005
+vCS
+VP;1JL3cV6P64E9h7iYOML3
+r1
+!s85 0
+31
+I?h3DE@`2@A<VoQ5`i6EfN1
+Z1 dC:\modeltech64_10.1c\LAB_modelsim\2005
+w1706336000
+8C:/modeltech64_10.1c/LAB_modelsim/2005/CS.v
+FC:/modeltech64_10.1c/LAB_modelsim/2005/CS.v
+L0 5
+Z2 OL;L;10.1c;51
+Z3 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@c@s
+!s100 UC:o^JKa;FzUHdM68mzM30
+!s108 1706336015.773000
+!s107 C:/modeltech64_10.1c/LAB_modelsim/2005/CS.v|
+!s90 -reportprogress|300|-work|work|-vopt|C:/modeltech64_10.1c/LAB_modelsim/2005/CS.v|
+!i10b 1
+vtest
+VG@HmXAU0G:I1gFS8fQjX_0
+r1
+31
+ILB3HXD5j:7I?:X4mDC:5J2
+R1
+w1705644126
+8C:/modeltech64_10.1c/LAB_modelsim/2005/testfixture.v
+FC:/modeltech64_10.1c/LAB_modelsim/2005/testfixture.v
+L0 7
+R2
+R3
+!s85 0
+!s100 =X5kLGXaG28nJCBAMR1130
+!s90 -reportprogress|300|-work|work|-vopt|C:/modeltech64_10.1c/LAB_modelsim/2005/testfixture.v|
+!i10b 1
+!s108 1706336015.844000
+!s107 C:/modeltech64_10.1c/LAB_modelsim/2005/testfixture.v|

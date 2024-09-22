@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/IC_contest_modelsim/ic_contest/2015
+vSET
+Z1 !s110 1721365395
+!i10b 1
+!s100 7=JfWJd`Go`dNhZ;iYPX;0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I18YK6[R9A4Wff_TYN2z031
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1721365129
+8C:/IC_contest_modelsim/ic_contest/2015/SET.v
+FC:/IC_contest_modelsim/ic_contest/2015/SET.v
+!i122 10
+L0 1 171
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1721365395.000000
+!s107 C:/IC_contest_modelsim/ic_contest/2015/SET.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2015/SET.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@s@e@t
+vtestfixture1
+R1
+!i10b 1
+!s100 Sk2Ek5_f>f>cOB1fY9Qmi0
+R2
+INd7I68IW?=LPg3HBRc_?[1
+R3
+R0
+w1426125657
+8C:/IC_contest_modelsim/ic_contest/2015/testfixture.v
+FC:/IC_contest_modelsim/ic_contest/2015/testfixture.v
+!i122 11
+L0 7 146
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/IC_contest_modelsim/ic_contest/2015/testfixture.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2015/testfixture.v|
+!i113 1
+R6
+R7

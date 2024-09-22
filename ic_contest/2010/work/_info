@@ -1,0 +1,221 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/IC_contest_modelsim/ic_contest/2010
+vRB1
+Z1 !s110 1721726549
+!i10b 1
+!s100 4SJS7Q^:dnlA[TlRe]<<R3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZhzH=l2hR2FfL>noi@PiO2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1268986450
+8RB1.v
+FRB1.v
+!i122 63
+Z4 L0 2 20
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1721726549.000000
+!s107 RB2.v|RB1.v|C:/IC_contest_modelsim/ic_contest/2010/tb.v|
+Z7 !s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2010/tb.v|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@r@b1
+vRB2
+R1
+!i10b 1
+!s100 gLW5<E^g8o9MzdUdJL5H]3
+R2
+I10a?R14V?4f0:MMJ8iifT3
+R3
+R0
+w1268986446
+8RB2.v
+FRB2.v
+!i122 63
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 RB2.v|RB1.v|C:/IC_contest_modelsim/ic_contest/2010/tb.v|
+R7
+!i113 1
+R8
+R9
+n@r@b2
+Es1
+Z11 w1268986354
+Z12 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z13 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z14 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z15 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 60
+R0
+Z16 8C:/IC_contest_modelsim/ic_contest/2010/S1.vhd
+Z17 FC:/IC_contest_modelsim/ic_contest/2010/S1.vhd
+l0
+L6 1
+VHGZD<2nRf@Fiad9SQhEKl0
+!s100 B0V6RN?TP7NPc[N?2?T:n0
+Z18 OV;C;2020.1;71
+32
+R1
+!i10b 1
+R6
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/IC_contest_modelsim/ic_contest/2010/S1.vhd|
+Z20 !s107 C:/IC_contest_modelsim/ic_contest/2010/S1.vhd|
+!i113 1
+Z21 o-work work -2002 -explicit
+Z22 tExplicit 1 CvgOpt 0
+As1_arc
+R12
+R13
+R14
+R15
+DEx4 work 2 s1 0 22 HGZD<2nRf@Fiad9SQhEKl0
+!i122 60
+l19
+L17 6
+Vm>g@0RXCFze?VzdF3LV=91
+!s100 WE=AXYCRJm0WNTUOgPmWL0
+R18
+32
+R1
+!i10b 1
+R6
+R19
+R20
+!i113 1
+R21
+R22
+vS1
+R1
+!i10b 1
+!s100 7V98DQBS8D[1]hkJ7Hz6[0
+R2
+IO]JnP?;V=JmT2@ndH^_U=1
+R3
+R0
+w1721726542
+8C:/IC_contest_modelsim/ic_contest/2010/S1.v
+FC:/IC_contest_modelsim/ic_contest/2010/S1.v
+!i122 59
+L0 1 136
+R5
+r1
+!s85 0
+31
+!s108 1721726548.000000
+!s107 C:/IC_contest_modelsim/ic_contest/2010/S1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2010/S1.v|
+!i113 1
+R8
+R9
+n@s1
+Es2
+Z23 w1268986364
+R12
+R13
+R14
+R15
+!i122 62
+R0
+Z24 8C:/IC_contest_modelsim/ic_contest/2010/S2.vhd
+Z25 FC:/IC_contest_modelsim/ic_contest/2010/S2.vhd
+l0
+L6 1
+V:H<1aiNOWFiOooPDY[DN40
+!s100 7<fo_Y8AifdC2nQD6Jn6j2
+R18
+32
+R1
+!i10b 1
+R6
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/IC_contest_modelsim/ic_contest/2010/S2.vhd|
+Z27 !s107 C:/IC_contest_modelsim/ic_contest/2010/S2.vhd|
+!i113 1
+R21
+R22
+As2_arc
+R12
+R13
+R14
+R15
+DEx4 work 2 s2 0 22 :H<1aiNOWFiOooPDY[DN40
+!i122 62
+l20
+L18 6
+V@XYbIi`2HNNPDO5@WVMlg0
+!s100 ?Ijlc2fgI8bb]cN58k0I20
+R18
+32
+R1
+!i10b 1
+R6
+R26
+R27
+!i113 1
+R21
+R22
+vS2
+R1
+!i10b 1
+!s100 h3<E0VA^QY;Z8?lY6IZLF0
+R2
+Ic9g[WXXhWH_g1kb[LoQ7`3
+R3
+R0
+w1721726087
+8C:/IC_contest_modelsim/ic_contest/2010/S2.v
+FC:/IC_contest_modelsim/ic_contest/2010/S2.v
+!i122 61
+L0 1 98
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/IC_contest_modelsim/ic_contest/2010/S2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/IC_contest_modelsim/ic_contest/2010/S2.v|
+!i113 1
+R8
+R9
+n@s2
+vtb
+R1
+!i10b 1
+!s100 LO?4C]eD;VW1HW9U>i_YD0
+R2
+IAWNRP_hKgHJf[8N=:7n_k0
+R3
+R0
+w1269350272
+8C:/IC_contest_modelsim/ic_contest/2010/tb.v
+FC:/IC_contest_modelsim/ic_contest/2010/tb.v
+!i122 63
+L0 22 137
+R5
+r1
+!s85 0
+31
+R6
+R10
+R7
+!i113 1
+R8
+R9
