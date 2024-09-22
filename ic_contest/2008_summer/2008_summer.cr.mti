@@ -1,8 +1,0 @@
-C:/IC_contest_modelsim/ic_contest/2008_summer/tb.v {1 {vlog -work work -stats=none C:/IC_contest_modelsim/ic_contest/2008_summer/tb.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module tb
-
-Top level modules:
-	tb
-
-} {} {}}

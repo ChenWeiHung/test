@@ -1,8 +1,0 @@
-C:/IC_contest_modelsim/ic_contest/2015/testfixture.v {1 {vlog -work work -stats=none C:/IC_contest_modelsim/ic_contest/2015/testfixture.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module testfixture1
-
-Top level modules:
-	testfixture1
-
-} {} {}}
